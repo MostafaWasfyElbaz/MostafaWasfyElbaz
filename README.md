@@ -10,11 +10,6 @@ Welcome to my GitHub profile! I am a passionate software engineer with a focus o
 - Frameworks: Flask, Django
 - Version Control: Git
 
-### 🔭 Projects:
-- [Project Name 1]: Brief description of the project.
-- [Project Name 2]: Brief description of the project.
-- [Project Name 3]: Brief description of the project.
-
 ### 🌱 Certifications and Courses:
 - Automating Real-World Tasks with Python (Coursera - Google Career Certificate)
 - Crash Course on Python (Coursera - Google Career Certificate)

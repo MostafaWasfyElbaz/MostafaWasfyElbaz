@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a passionate software engineer with a focus o
 ### 💡 Interests:
 - Automation and scripting
 - Web development
-- Data analysis and visualization
+- web scraping
 
 ### 📫 Get in touch:
 - LinkedIn: https://www.linkedin.com/in/mostafa-elbaz-80a54927a

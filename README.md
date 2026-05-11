@@ -63,84 +63,9 @@
 - Integration Testing
 - E2E Testing
 
----
-
-## 💼 Experience
-
-### Backend Engineer — MisrTech SAE
-
-- Built backend services for smart transportation systems serving **10K+ daily users**
-- Migrated authentication systems from Ruby to Node.js improving performance by ~25%
-- Developed secure payment workflows supporting multiple payment methods
-- Built dynamic pricing and fare-capping systems handling thousands of calculations daily
-- Improved deployment workflows and achieved high system uptime
-
-### Backend Engineer Intern — Route
-
-- Developed modular backend systems for production-ready applications
-- Integrated secure payment processing and email automation systems
-- Documented and designed 30+ API endpoints
-- Optimized database queries and middleware performance
-- Improved system reliability with validation and structured error handling
 
 ---
 
-# 📌 Featured Projects
-
-## 🔹 Social App
-
-Scalable social media backend built with Node.js, TypeScript, Express, and MongoDB.
-
-### Features
-
-- JWT Authentication
-- Email Verification & OTP Recovery
-- Real-time Chat using Socket.IO
-- AWS S3 Media Uploads
-- RESTful APIs
-- CORS, Rate Limiting, bcrypt Security
-
-### 🔗 Repository
-
-```bash
-https://github.com/MostafaWasfyElbaz/Social-App
-```
-
----
-
-## 🔹 Whisper App
-
-Anonymous messaging backend application.
-
-### Features
-
-- JWT Authentication
-- Google OAuth
-- Secure REST APIs
-- MongoDB Schema Design
-- Joi Validation
-- Data Encryption
-
-### 🔗 Repository
-
-```bash
-https://github.com/MostafaWasfyElbaz/Whisper-App
-```
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaWasfyElbaz&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaWasfyElbaz&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaWasfyElbaz&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Contact Me
 
@@ -153,9 +78,6 @@ https://github.com/MostafaWasfyElbaz/Whisper-App
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://github.com/MostafaWasfyElbaz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---

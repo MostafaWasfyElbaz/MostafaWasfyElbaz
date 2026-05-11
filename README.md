@@ -83,10 +83,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MostafaWasfyElbaz&label=Profile%20Views&color=0e75b6&style=flat" alt="MostafaWasfyElbaz" />
-</p>
-
-<p align="center">
   <b>"Building scalable backend systems with clean architecture and secure APIs."</b>
 </p>
 

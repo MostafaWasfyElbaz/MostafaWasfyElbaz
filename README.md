@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 💻 Backend Engineer passionate about building scalable and secure backend systems
+- 💻 Software Engineer passionate about building scalable and secure backend systems
 - ⚡ Specialized in **Node.js**, **TypeScript**, **Express.js**, and **NestJS**
 - 🛠️ Strong experience with REST APIs, GraphQL, WebSockets, and Authentication Systems
 - 🗄️ Experienced with MongoDB, PostgreSQL, MySQL, Redis, and SQL Server

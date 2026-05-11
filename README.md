@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mostafa Wasfy
 
-<h3 align="center">Backend Engineer | Node.js & TypeScript Developer | API & System Design Enthusiast</h3>
+<h3 align="center">Software Engineer | Node.js & TypeScript Developer | API & System Design Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/MostafaWasfyElbaz">
